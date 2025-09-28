@@ -7,4 +7,5 @@ An alarm clock that is accessible and convenient throughout the day and week.
 
 # Run the following
 javac Main.java
+
 java Main
